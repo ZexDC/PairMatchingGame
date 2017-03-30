@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">ACW Pair Matching Game</string>
+    <string name="continueBtn">Continue</string>
+    <string name="LocalPuzzlesBtn">Local Puzzles</string>
+    <string name="RemotePuzzlesBtn">Remote Puzzles</string>
+    <string name="PlayBtn">Play</string>
+    <string name="DownloadBtn">Download</string>
+    <string name="StartGameBtn">Start!</string>
+    <string name="TimeTextView">Time:</string>
+    <string name="PairsTextView">Pairs:</string>
+    <string name="AttemptsTextView">Attempts:</string>
+    <string name="CountDownTimeTextView">Starting in:</string>
+    <string name="GameoverTextView">Complete!\nYour score is:</string>
+    <string name="GameoverHighScoreTextView">Complete!\nNew High Score!\nYour score is:</string>
+    <string name="gameoverBtn">To main menu</string>
+    <string name="gameoverDialogTitle">Game Over!</string>
+    <string name="NoNetworkAlertDialog">No network available, check your connection and try again.</string>
+    <string name="DownloadPuzzleSuccessfulToast">You can now find your new puzzle in the local selection!</string>
+    <string name="DownloadPuzzleUnsuccessfulToast">Unable to download the selected puzzle.</string>
+    <string name ="DownloadingSelectedPuzzleToast">Downloading puzzle</string>
+    <string name="ID_label">Puzzle ID</string>
+    <string name="Size_label">Size</string>
+    <string name="HighScore_label">High Score</string>
+    <string name="filterDialogTitle">Set filters</string>
+    <string name="filterCompletedCheckBox">Completed</string>
+    <string name="filterSize_label">Size:</string>
+    <string name="FilterPuzzleID_label">Puzzle ID:</string>
+    <string name="applyFilterButton">Apply</string>
+    <string name="resetFilterButton">Reset</string>
+    <string name="filterEditTextHint">Any</string>
+    <string name="filterUncompletedCheckBox">Uncompleted</string>
+</resources>

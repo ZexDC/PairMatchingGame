@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ACW Gioco Coppie</string>
+    <string name="AttemptsTextView">Tentativi:</string>
+    <string name="DownloadBtn">Scarica</string>
+    <string name="LocalPuzzlesBtn">Puzzle locali</string>
+    <string name="PairsTextView">Coppie:</string>
+    <string name="PlayBtn">Gioca</string>
+    <string name="RemotePuzzlesBtn">Puzzle remoti</string>
+    <string name="StartGameBtn">Inizia!</string>
+    <string name="TimeTextView">Tempo:</string>
+    <string name="continueBtn">Continua</string>
+    <string name="CountDownTimeTextView">Inizio in:</string>
+    <string name="GameoverTextView">Completato! Il tuo punteggio è:</string>
+    <string name="gameoverBtn">Al menu principale</string>
+    <string name="gameoverDialogTitle">Game Over!</string>
+    <string name="GameoverHighScoreTextView">Completato! Nuovo miglior punteggio! Il tuo punteggio è:</string>
+    <string name="NoNetworkAlertDialog">Nessuna rete, controlla la tua connessione e riprova.</string>
+    <string name="DownloadPuzzleSuccessfulToast">Puoi trovare il yuo nuovo puzzle nella lista locale!</string>
+    <string name="DownloadPuzzleUnsuccessfulToast">Impossibile scaricare il puzzle selezionato</string>
+    <string name="DownloadingSelectedPuzzleToast">Scaricamento in corso del puzzle</string>
+    <string name="HighScore_label">Miglior Punteggio</string>
+    <string name="ID_label">ID puzzle</string>
+    <string name="Size_label">Dimensione</string>
+    <string name="FilterPuzzleID_label">ID puzzle:</string>
+    <string name="applyFilterButton">Applica</string>
+    <string name="filterCompletedCheckBox">Completati</string>
+    <string name="filterDialogTitle">Imposta filtri</string>
+    <string name="filterSize_label">Dimensione:</string>
+    <string name="resetFilterButton">Reset</string>
+    <string name="filterEditTextHint">Tutti</string>
+    <string name="filterUncompletedCheckBox">Non completati</string>
+</resources>
